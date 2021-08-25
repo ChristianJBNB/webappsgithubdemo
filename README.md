@@ -21,6 +21,10 @@ def foo();
   
   * item 1
   * item 2
-  *   subitem 1
-  *   subitem 2
+    * subitem 1
+    * subitem 2
   * item another
+
+1. item a
+2. item b
+3. item c
